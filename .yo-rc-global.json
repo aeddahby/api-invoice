@@ -1,0 +1,8 @@
+{
+  "generator-jhipster:7.8.1": {
+    "promptValues": {
+      "packageName": "com.iam.api_invoice",
+      "nativeLanguage": "fr"
+    }
+  }
+}
