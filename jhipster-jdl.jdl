@@ -1,0 +1,7 @@
+
+entity Factures {
+	object String
+	description String
+	creationDate String
+}
+

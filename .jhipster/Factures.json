@@ -1,0 +1,28 @@
+{
+  "applications": "*",
+  "changelogDate": "20220923144237",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "factures",
+  "fields": [
+    {
+      "fieldName": "object",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "description",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "creationDate",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Factures",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}
